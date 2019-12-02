@@ -8,6 +8,8 @@ use Symfony\Component\Routing\Annotation\Route;
 class IndexController extends AbstractController
 {
     /**
+     *
+     * test du commentaire
      * @Route("/")
      */
     public function index()
